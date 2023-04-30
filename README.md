@@ -30,7 +30,7 @@
     <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <!--linux-->
 </div>
 
-Committed to using programming to solve problems and improve people's lives.
+<p style="font-size: 1.1em;"> Committed to using programming to solve problems and improve people's lives. </p>
 
 <h2 style="font-family: Gotham; font-weight: 500;"> MY HIGHLIGHTS: </h2>
 
