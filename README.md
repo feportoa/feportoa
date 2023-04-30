@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 style="font-family: Gotham; font-weight: 500;"> TECHNOLOGIES I USE </h2>
+<h2 style="font-family: Gotham; font-weight: 500; text-align: center;"> TECHNOLOGIES I USE </h2>
 
 <div style="display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
     <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <!--html-->
@@ -20,7 +20,7 @@
     <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 </div>
 
-<h2 style="font-family: Gotham; font-weight: 500;"> TECHNOLOGIES I'M LEARNING </h2>
+<h2 style="font-family: Gotham; font-weight: 500; text-align: center;"> TECHNOLOGIES I'M LEARNING </h2>
 
 <div style="margin-top: 10px;display: flex; justify-content: center; gap: 5px; flex-wrap: wrap;">
     <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
