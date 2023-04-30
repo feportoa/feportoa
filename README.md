@@ -2,9 +2,7 @@
 
 ## Welcome to my Github page!
 
-<style>
-    @import url('https://fonts.cdnfonts.com/css/gotham');
-</style>
+<link rel="stylesheet" href="fontImport.css">
 
 ![Fernando Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=feportoa&show_icons=true&theme=synthwave)
 
