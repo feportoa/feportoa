@@ -2,7 +2,7 @@
 
 ## Welcome to my Github page!
 
-<link rel="stylesheet" href="fontImport.css">
+<link rel="stylesheet" href="./fontImport.css">
 
 ![Fernando Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=feportoa&show_icons=true&theme=synthwave)
 
