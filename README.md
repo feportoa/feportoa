@@ -1,12 +1,10 @@
-<style>
-    @import url('https://fonts.cdnfonts.com/css/gotham');
-</style>
-                
-
 <h1 style="font-family: Gotham; font-weight: 600"> HEY YOU 🫵 </h1>
 
 ## Welcome to my Github page!
 
+<style>
+    @import url('https://fonts.cdnfonts.com/css/gotham');
+</style>
 
 ![Fernando Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=feportoa&show_icons=true&theme=synthwave)
 
