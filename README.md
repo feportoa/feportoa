@@ -1,4 +1,4 @@
-<h1 style="font-family: Gotham; font-weight: 600"> HEY YOU 🫵 </h1>
+<h1 style="font-family: Gotham; font-weight: 600"> HEY YOU </h1>
 
 ## Welcome to my Github page!
 
