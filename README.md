@@ -11,11 +11,11 @@ I'm Fernando, a 20 year old brazilian luxembourgish software developer
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=feportoa&show_icons=true&theme=synthwave&card_width=320" height=200 align="center">
 </a>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&card_width=280" height=200 align="center">
 </a>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <br><br>
 
