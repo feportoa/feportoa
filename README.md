@@ -9,10 +9,10 @@ I'm Fernando, a 20 year old brazilian luxembourgish software developer
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=feportoa&show_icons=true&theme=synthwave" height=200 align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=feportoa&show_icons=true&theme=synthwave&card_width=320" height=200 align="center">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&card_width=320" height=200 align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&card_width=300" height=200 align="center">
 </a>
 
 <h3 style="font-family: Gotham; font-weight: 500;"> WHAT I USE </h2>
