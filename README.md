@@ -15,9 +15,9 @@ I'm Fernando, a 20 year old brazilian luxembourgish software developer
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&card_width=280" height=200 align="center">
 </a>
 
-<h3 style="font-family: Gotham; font-weight: 500;"> WHAT I USE </h2>
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<h3 style="font-family: Gotham; font-weight: 500;"> WHAT I USE </h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
