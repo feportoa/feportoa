@@ -43,12 +43,11 @@ I'm Fernando, a 20 year old brazilian luxembourgish software developer
 
 ## Reach me:
 
-<a href="https://wa.me/5548991310528?text=Hi ">
-    <img ref="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    <img ref="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-    <img ref="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-<a href="www.linkedin.com/in/feportoa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<div style="display: inline-block;">
+    <a href="www.linkedin.com/in/feportoa">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">&nbsp;
+    </a>
+    <a href="https://wa.me/5548991310528?text=Hi">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">&nbsp;
+    </a>
+<div>
