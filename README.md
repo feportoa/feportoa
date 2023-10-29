@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=%20FERNANDO%20PORTO%20&theme=synthwave&reversal=true&fontAlignY=35)
-
 ## Hi!
 
 I'm Fernando, a 20 year old brazilian luxembourgish software developer
