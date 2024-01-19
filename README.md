@@ -17,7 +17,7 @@ I'm Fernando, a 20 year old brazilian luxembourgish software developer
 
 <br><br>
 
-<h3 style="font-family: Gotham; font-weight: 500;"> WHAT I USE </h2>
+<h3 style="font-family: Gotham; font-weight: 500;"> WHAT I USE </h3>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -26,13 +26,13 @@ I'm Fernando, a 20 year old brazilian luxembourgish software developer
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<h3 style="font-family: Gotham; font-weight: 500;"> WHAT I'M LEARNING </h2>
+<h3 style="font-family: Gotham; font-weight: 500;"> WHAT I'M LEARNING </h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 
-<h3 style="font-family: Gotham; font-weight: 500;"> WORKSTATION TOOLS </h2>
+<h3 style="font-family: Gotham; font-weight: 500;"> WORKSTATION TOOLS </h3>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
