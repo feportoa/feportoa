@@ -1,7 +1,7 @@
 ## Hi!
 
 I'm Fernando, a 20 year old brazilian luxembourgish software developer
- - Currently studying analysis and system development, graduating december 2023
+ - Graduated in analysis and system development, december 2023
 
 <link rel="stylesheet" href="./fontImport.css">
 
