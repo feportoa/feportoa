@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **feporto.a@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/in/feportoa](linkedin.com/in/feportoa)
+- 📄 Know about my experiences [linkedin.com/in/feportoa](https://linkedin.com/in/feportoa)
 
 - ⚡ Fun fact **My pfp will always be some dreamworks character. Non-negotiable :3**
 
