@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/feportoa](https://linkedin.com/in/feportoa)
 
-- ⚡ Fun fact **My pfp will always be some dreamworks character. Non-negotiable :3**
+- ⚡ Fun fact **my pfp will always be some dreamworks character. Non-negotiable :3**
 
 <h3 align="left">Contact me (IG only personal!):</h3>
 <p align="left">
